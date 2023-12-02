@@ -1,4 +1,4 @@
-### Hi there 👋, Hello Dear I'm Akbar Hossan 
+### Hello Dear I'm Akbar Hossan 
 #### I'm MERN Stack Developer since 2 year.
 ![I'm MERN Stack Developer since 2 year.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
