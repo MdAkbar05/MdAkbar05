@@ -17,11 +17,11 @@ Skills: JavaScript / SASS /Redux / React JS / Node JS / Express JS/ MongoDB / My
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MdAkbar05)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MdAkbar05)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAkbar05)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MdAkbar05&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdAkbar05&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/MdAkbar05/contributions?format=svg&private=false)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdAkbar05/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/MdAkbar05)  
 
