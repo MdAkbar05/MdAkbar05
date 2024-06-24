@@ -4,7 +4,7 @@
 
 My provided services to build Web application, Website, Project Management etc.
 
-Skills: JavaScript / SASS /Redux / React JS / Node JS / Express JS/ MongoDB / MySQL / Oracle DB/
+Skills: JavaScript /Redux / React JS / Node JS / Express JS/ MongoDB / MySQL / Oracle DB/
 
 - 🔭 I’m currently working on Fliver in online market place. 
 - 🌱 I’m currently learning Backend With Mongoose, MySQL, Oracle DB  
